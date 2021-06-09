@@ -7,4 +7,4 @@ major components: clinician, vaccine recipients, appointment, and administrator.
 
 This project was group orientated.
 
-My responsilities were the Vaccine Recipient and some of the Administrator functions.
+My responsilities for the project were the Vaccine Recipient and some of the Administrator functions.
